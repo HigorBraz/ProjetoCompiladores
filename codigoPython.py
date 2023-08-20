@@ -6,8 +6,9 @@ if a>1:
 	print("ABC")
 
 
-print(a)
+print("Digite o valor c")
 
+c =int(input())
 while (a+1==10):
 	a = (a+1)*(4/2);
 	print(a)

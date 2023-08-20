@@ -28,6 +28,6 @@ Higor Braz da Silva: 11201810691
 
 
 
-*No caso do código Python não consegui utlizar os operadores lógicos
+*Os operadores lógicos só funcionam no código Java
 
 Link do video: https://youtu.be/vlTdFLRdHok

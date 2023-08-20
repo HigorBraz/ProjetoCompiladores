@@ -5,7 +5,7 @@ public class codigoJava{
 		Scanner sc = new Scanner(System.in);
 		int  a;
 		int  b;
-		double  c;
+		int  c;
 		double  d;
 		String  text;
 		text = "abc";
@@ -17,8 +17,9 @@ public class codigoJava{
 
 		}
 
-		System.out.println(a);
+		System.out.println("Digite o valor c");
 
+		c = sc.nextInt();
 		while (a+1==10) {
 			a = (a+1)*(4/2);
 			System.out.println(a);

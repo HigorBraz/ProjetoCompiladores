@@ -1,7 +1,7 @@
 programa
 
-int a, b.
-real c, d.
+int a, b, c.
+real d.
 String text.
 
 text = "abc";
@@ -12,7 +12,8 @@ if (a > 1) {
 	escreva("ABC");
 }
 
-escreva(a);
+escreva("Digite o valor c");
+leia(c);
 
 while(a + 1 == 10 ) {
 	a = (a + 1) * (4 / 2);
