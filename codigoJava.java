@@ -7,11 +7,12 @@ public class codigoJava{
 		int  b;
 		double  c;
 		double  d;
-		int  i;
 		String  text;
+		text = "abc";
+
 		a = 2;
 
-		if (a>1 && a<3) {
+		if (a>1) {
 			System.out.println("ABC");
 
 		}

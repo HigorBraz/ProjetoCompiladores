@@ -4,10 +4,11 @@ int a, b.
 real c, d.
 String text.
 
-b = 1.4;
-a = 2 + b;
+text = "abc";
 
-if (a > 1 and a < 3) {
+a = 2;
+
+if (a > 1) {
 	escreva("ABC");
 }
 
@@ -32,6 +33,5 @@ for (i = 0; i < 2; i++){
 	escreva(a);
 }
 
-int i.
 
 fimprog.
