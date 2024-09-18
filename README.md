@@ -26,8 +26,4 @@ Higor Braz da Silva: 11201810691
 - Geração de várias linguagens-alvo (JAVA, Python)
 
 
-
-
 *Os operadores lógicos só funcionam no código Java
-
-Link do video: https://youtu.be/vlTdFLRdHok
